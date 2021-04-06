@@ -1,5 +1,3 @@
-// Artur Kotrab Pp Complex number!!
-
 #include <iostream>
 #include <cmath>
 #include <math.h>
@@ -9,6 +7,8 @@ using namespace std;
 
 double modul(Zespolona& md);
 double argument(Zespolona& z);
+
+// asdkfjhsdkjfhdf 
 
 int main()
 {
