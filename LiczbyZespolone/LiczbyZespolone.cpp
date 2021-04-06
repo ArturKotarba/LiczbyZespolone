@@ -8,8 +8,6 @@ using namespace std;
 double modul(Zespolona& md);
 double argument(Zespolona& z);
 
-// asj
-
 int main()
 {
 
