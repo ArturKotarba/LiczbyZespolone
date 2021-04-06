@@ -8,7 +8,7 @@ using namespace std;
 double modul(Zespolona& md);
 double argument(Zespolona& z);
 
-// asjkfdhsjkdfhlksadhflhsfd
+// asj
 
 int main()
 {
