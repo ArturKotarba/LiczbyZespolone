@@ -1,3 +1,5 @@
+// Artur Kotrab Pp Complex number!!
+
 #include <iostream>
 #include <cmath>
 #include <math.h>
